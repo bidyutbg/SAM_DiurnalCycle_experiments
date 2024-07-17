@@ -1,5 +1,5 @@
 # SAM_DiurnalCycle_experiments
-Contains constant and diurnal cycle SST forcing model codes (SAM version 6.10.8)
+Contains constant and diurnal cycle SST forcing model codes (SAM version 6.10.8) and scripts to analize the model simulations.
 
 
 The model domain is square, doubly periodic in both horizontal directions x and y. We run simulations with a domain size of 768 km x 768 km. The horizontal resolution is 3 km, and the model's lowest level is defined at 37.5 m with vertical grid spacing increasing gradually with height from a few tens of meters to 500 m in the free troposphere. The model time step is 10 seconds. The Coriolis parameter is ignored in all simulations.
